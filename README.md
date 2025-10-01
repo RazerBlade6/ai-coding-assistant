@@ -24,10 +24,10 @@ Intelligent autocompletion, context-aware chat, code refactoring, real-time edit
 
 ## Plan
 
-Phase | Tasks | Time Estimate|
+| Phase | Tasks | Time Estimate|
 | :-- | :---- |:--|
 | Planning & Scoping | Define Scope, collect requirements, survey LLMs | Done|
-| Backend & Model Integration | Integrate|
+| Backend & Model Integration | Integrate the models, idk what you want? | 2 weeks | 
 | Context, Retrieval Systems | embed codebase, build semantic search | 2 weeks|
 | Orchestration | LangChain agent implementation | 2 weeks |
 | Frontend | Build VSCode extension | 2 weeks |
