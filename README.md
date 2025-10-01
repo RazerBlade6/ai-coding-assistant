@@ -25,6 +25,7 @@ Intelligent autocompletion, context-aware chat, code refactoring, real-time edit
 ## Plan
 
 Phase | Tasks | Time Estimate
+| :-- | :---- |:--
 1. Planning & Scoping | Define Scope, collect requirements, survey LLMs | Done
 2. Backend & Model Integration | Integrate
 3. Context, Retrieval Systems | embed codebase, build semantic search | 2 weeks
