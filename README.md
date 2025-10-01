@@ -24,11 +24,11 @@ Intelligent autocompletion, context-aware chat, code refactoring, real-time edit
 
 ## Plan
 
-Phase | Tasks | Time Estimate
-| :-- | :---- |:--
-1. Planning & Scoping | Define Scope, collect requirements, survey LLMs | Done
-2. Backend & Model Integration | Integrate
-3. Context, Retrieval Systems | embed codebase, build semantic search | 2 weeks
-4. Orchestration | LangChain agent implementation | 2 weeks
-5. Frontend | Build VSCode extension | 2 weeks
+Phase | Tasks | Time Estimate|
+| :-- | :---- |:--|
+| Planning & Scoping | Define Scope, collect requirements, survey LLMs | Done|
+| Backend & Model Integration | Integrate|
+| Context, Retrieval Systems | embed codebase, build semantic search | 2 weeks|
+| Orchestration | LangChain agent implementation | 2 weeks |
+| Frontend | Build VSCode extension | 2 weeks |
 6. Testing + Deployment | Standard DevOps stuff | 2 weeks
