@@ -31,4 +31,4 @@ Phase | Tasks | Time Estimate|
 | Context, Retrieval Systems | embed codebase, build semantic search | 2 weeks|
 | Orchestration | LangChain agent implementation | 2 weeks |
 | Frontend | Build VSCode extension | 2 weeks |
-6. Testing + Deployment | Standard DevOps stuff | 2 weeks
+| Testing + Deployment | Standard DevOps stuff | 2 weeks |
